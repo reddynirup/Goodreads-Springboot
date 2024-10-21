@@ -1,6 +1,6 @@
-# Goodreads-like Book Management System
+# Goodreads-Book Management System
 
-This is a **Goodreads-inspired book management system** built using **Spring Boot** and **Java**. The system allows users to manage books, authors, and publishers, providing basic CRUD operations for each entity. The project follows a **RESTful API** architecture and utilizes **JPA** for database operations.
+This is a **Goodreads-book management system** built using **Spring Boot** and **Java**. The system allows users to manage books, authors, and publishers, providing basic CRUD operations for each entity. The project follows a **RESTful API** architecture and utilizes **JPA** for database operations.
 
 ## Features
 
